@@ -1,0 +1,15 @@
+C:\Users\chood\OneDrive\Рабочий стол\GB\5. Знакомство с базами данных\Урок 1. Знакомство с базами данных (Семинар)\Database_Sem_1\bin\Debug\net6.0\Database_Sem_1.exe
+C:\Users\chood\OneDrive\Рабочий стол\GB\5. Знакомство с базами данных\Урок 1. Знакомство с базами данных (Семинар)\Database_Sem_1\bin\Debug\net6.0\Database_Sem_1.deps.json
+C:\Users\chood\OneDrive\Рабочий стол\GB\5. Знакомство с базами данных\Урок 1. Знакомство с базами данных (Семинар)\Database_Sem_1\bin\Debug\net6.0\Database_Sem_1.runtimeconfig.json
+C:\Users\chood\OneDrive\Рабочий стол\GB\5. Знакомство с базами данных\Урок 1. Знакомство с базами данных (Семинар)\Database_Sem_1\bin\Debug\net6.0\Database_Sem_1.dll
+C:\Users\chood\OneDrive\Рабочий стол\GB\5. Знакомство с базами данных\Урок 1. Знакомство с базами данных (Семинар)\Database_Sem_1\bin\Debug\net6.0\Database_Sem_1.pdb
+C:\Users\chood\OneDrive\Рабочий стол\GB\5. Знакомство с базами данных\Урок 1. Знакомство с базами данных (Семинар)\Database_Sem_1\obj\Debug\net6.0\Database_Sem_1.csproj.AssemblyReference.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\5. Знакомство с базами данных\Урок 1. Знакомство с базами данных (Семинар)\Database_Sem_1\obj\Debug\net6.0\Database_Sem_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chood\OneDrive\Рабочий стол\GB\5. Знакомство с базами данных\Урок 1. Знакомство с базами данных (Семинар)\Database_Sem_1\obj\Debug\net6.0\Database_Sem_1.AssemblyInfoInputs.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\5. Знакомство с базами данных\Урок 1. Знакомство с базами данных (Семинар)\Database_Sem_1\obj\Debug\net6.0\Database_Sem_1.AssemblyInfo.cs
+C:\Users\chood\OneDrive\Рабочий стол\GB\5. Знакомство с базами данных\Урок 1. Знакомство с базами данных (Семинар)\Database_Sem_1\obj\Debug\net6.0\Database_Sem_1.csproj.CoreCompileInputs.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\5. Знакомство с базами данных\Урок 1. Знакомство с базами данных (Семинар)\Database_Sem_1\obj\Debug\net6.0\Database_Sem_1.dll
+C:\Users\chood\OneDrive\Рабочий стол\GB\5. Знакомство с базами данных\Урок 1. Знакомство с базами данных (Семинар)\Database_Sem_1\obj\Debug\net6.0\refint\Database_Sem_1.dll
+C:\Users\chood\OneDrive\Рабочий стол\GB\5. Знакомство с базами данных\Урок 1. Знакомство с базами данных (Семинар)\Database_Sem_1\obj\Debug\net6.0\Database_Sem_1.pdb
+C:\Users\chood\OneDrive\Рабочий стол\GB\5. Знакомство с базами данных\Урок 1. Знакомство с базами данных (Семинар)\Database_Sem_1\obj\Debug\net6.0\Database_Sem_1.genruntimeconfig.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\5. Знакомство с базами данных\Урок 1. Знакомство с базами данных (Семинар)\Database_Sem_1\obj\Debug\net6.0\ref\Database_Sem_1.dll
